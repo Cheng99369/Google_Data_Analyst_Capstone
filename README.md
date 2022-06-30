@@ -7,7 +7,6 @@ This is the final capstone project in my Google Data Analytic Professional Certi
 Major frameworks/tools used: 
 
 * **R programming language** (RStudio)
-* **SQL programming language** (SQL server)
 * **Microsoft office** (EXCEL)
 * **data visualization tool** (Tableau).
 
